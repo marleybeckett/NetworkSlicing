@@ -1,0 +1,4 @@
+# Network Slicing
+This project aims to create a model that can preform network slicing based on various metrics and industries associated with users. This dataset was provided by https://www.kaggle.com/datasets/gauravduttakiit/network-slicing-recognition/code. 
+
+Network slicing refers to the virtualization of resources, such as bandwidth, computing power, and storage, to create isolated virtual networks existing on shared physical infrastructure. This concept has been widely adopted in 5G NR, and is used to guarantee different QoS to customers. Applying ML for slice recognition enables more efficient and adaptive management of slices, leading to improved performance, reliability, and customer experience. In this project, the goal is to understand what factors contribute most to slice assignment for customers in a 5G NR network. Although there are no labels on the testing data, statistical inference can be applied to match results with the training data.
